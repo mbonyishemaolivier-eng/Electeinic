@@ -110,7 +110,7 @@ https://kwizeraangelus6.wixsite.com/my-site-5
 ---
 
 # GitHub Repository Link
-Add your GitHub repository link here.
+https://github.com/mbonyishemaolivier-eng/Electeinic/
 
 ---
 
