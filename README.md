@@ -77,13 +77,15 @@ Contains:
 # Screenshots
 
 ## Homepage
-Add homepage screenshot here.
+
+![product](images/home.png)
+
 
 ## Product Page
-Add product page screenshot here.
+![product](images/product.png)
 
 ## Contact/Cart Page
-Add contact or cart screenshot here.
+![contact](images/contact.png)
 
 ---
 
